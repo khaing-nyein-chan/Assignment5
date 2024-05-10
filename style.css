@@ -1,0 +1,34 @@
+div.img1 {
+    width: 300px;
+    
+    text-align: center;
+    background-color:white;color:black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+.icon{
+    display: flex;padding-left: 20px;
+}
+.one{
+    display: flex;
+    background-color:beige;
+ 
+    padding: 20px;
+
+}
+div.sat{display: flex;
+
+}
+.a{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.flex{
+    display: flex;
+}
+.dis{
+    display: flex;
+}
